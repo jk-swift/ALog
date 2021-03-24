@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ALog_Example' do
+  pod 'ALog', :path => '../'
+
+  target 'ALog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
