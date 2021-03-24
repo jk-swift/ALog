@@ -1,0 +1,22 @@
+{
+  "name": "ALog",
+  "version": "0.1.0",
+  "summary": "A short description of ALog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yulongmailbox@163.com/ALog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yulongmailbox@163.com": "yulongmailbox@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yulongmailbox@163.com/ALog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ALog/Classes/**/*"
+}
