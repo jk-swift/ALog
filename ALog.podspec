@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'a log system base on xlog'
 
-  s.homepage         = 'https://github.com/yulongmailbox@163.com/ALog'
+  s.homepage         = 'https://github.com/jk-swift/ALog'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yulongmailbox@163.com' => 'yulongmailbox@163.com' }
